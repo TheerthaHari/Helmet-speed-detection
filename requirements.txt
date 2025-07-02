@@ -1,0 +1,8 @@
+ultralytics
+numpy
+opencv-python
+twilio
+paddleocr==2.9.1
+paddlepaddle
+easyocr
+deep_sort_realtime
